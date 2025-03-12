@@ -1,0 +1,5 @@
+git clone --branch v2.6.1 https://github.com/medusajs/medusa.git
+cd medusa
+git init
+git remote add origin https://github.com/TWOJE-GITHUB-USERNAME/medusa.git
+git push -u origin main
